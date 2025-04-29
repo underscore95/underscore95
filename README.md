@@ -1,16 +1,14 @@
-## Hi there 👋
+# 👋 Hi, I'm Jack!
 
-<!--
-**underscore95/underscore95** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**jg.briggs2004@gmail.com** | Discord: `underscore95`
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🧪 Here's a list of my projects
+
+### [🧨 Blaboon](https://github.com/underscore95/Blaboon)
+
+A **multiplayer tower defense game** inspired by Bloons TD Battles.  
+Example project for my game engine, [Chimp](https://github.com/underscore95/chimp).
+
+[![Blaboon Icon](https://github.com/underscore95/underscore95/blob/main/blaboon.png)](https://github.com/underscore95/Blaboon)
