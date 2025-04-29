@@ -6,9 +6,18 @@
 
 ## 🧪 Here's a list of my projects
 
+<table>
+<tr>
+<td>
+
 ### [🧨 Blaboon](https://github.com/underscore95/Blaboon)
 
 A **multiplayer tower defense game** inspired by Bloons TD Battles.  
 Example project for my game engine, [Chimp](https://github.com/underscore95/chimp).
 
-[![Blaboon Icon](https://github.com/underscore95/underscore95/blob/main/blaboon.png)](https://github.com/underscore95/Blaboon)
+</td>
+<td>
+<img src="https://github.com/underscore95/underscore95/blob/main/blaboon.png" alt="Blaboon Icon" width="150"/>
+</td>
+</tr>
+</table>
