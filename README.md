@@ -4,7 +4,33 @@
 
 ---
 
+## 🛠️ Skills
+
+**Game Engines:** Unity, Godot  
+**Languages & APIs:** C++, Java, OpenGL, DirectX 11  
+**Databases:** MySQL, MongoDB  
+**Networking:** ENet, raw sockets (TCP/UDP)
+
+---
+
 ## 🧪 Here's a list of my projects
+
+<table>
+<tr>
+<td>
+
+### [🦍 Chimp](https://github.com/underscore95/chimp)
+
+A C++ 3D game framework with networking and lighting/shadow mapping support, using an OpenGL backend.
+
+</td>
+<td>
+<img src="http://res.publicdomainfiles.com/pdf_view/68/13927374611731.png" alt="Chimp Icon" width="150"/>
+</td>
+</tr>
+</table>
+
+---
 
 <table>
 <tr>
