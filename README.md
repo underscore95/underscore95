@@ -40,7 +40,7 @@ A 3D game framework with networking, lighting/shadow mapping support, music & po
 
 ### [Blaboon](https://github.com/underscore95/Blaboon)
 
-A **multiplayer tower defense game** inspired by Bloons TD Battles.  
+A **2.5D multiplayer tower defense game** inspired by Bloons TD Battles.  
 Example project for my game framework, [Chimp](https://github.com/underscore95/chimp).
 
 [Watch Gameplay Video](https://youtu.be/NDiz5kLaRjI)<br>
