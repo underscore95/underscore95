@@ -21,7 +21,11 @@
   
 ### [Chimp](https://github.com/underscore95/chimp)
 
-A C++ 3D game framework with networking and lighting/shadow mapping support, using an OpenGL backend.
+A 3D game framework with networking and lighting/shadow mapping support.
+
+[Github](https://github.com/underscore95/chimp)
+
+**Languages & Libraries:** C++, OpenGL, ENet, OpenAL
 
 </td>
 <td style="width:150px; text-align:right;">
@@ -37,6 +41,11 @@ A C++ 3D game framework with networking and lighting/shadow mapping support, usi
 A **multiplayer tower defense game** inspired by Bloons TD Battles.  
 Example project for my game framework, [Chimp](https://github.com/underscore95/chimp).
 
+[Watch Gameplay Video](https://youtu.be/NDiz5kLaRjI)
+[Github](https://github.com/underscore95/Blaboon)
+
+**Languages & Libraries:** C++, Chimp
+
 </td>
 <td style="width:150px; text-align:right;">
 <img style="display:block;" width="100%" height="100%" src="https://github.com/underscore95/underscore95/blob/main/blaboon.png" alt="Blaboon Icon"/>
@@ -48,7 +57,11 @@ Example project for my game framework, [Chimp](https://github.com/underscore95/c
 
 ### [Marmota Meadow](https://overheat-studios.itch.io/marmota-meadow)
 
-A **farming sim first-person shooter** developed in Unity.
+A **farming sim first-person shooter**.
+
+[Watch Trailer](https://www.youtube.com/watch?v=yHH3yI8zBmo)
+
+**Languages & Libraries:** C#, Unity
 
 </td>
 <td style="width:150px; text-align:right;">
