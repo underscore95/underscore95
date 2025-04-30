@@ -41,7 +41,7 @@ A 3D game framework with networking and lighting/shadow mapping support.
 A **multiplayer tower defense game** inspired by Bloons TD Battles.  
 Example project for my game framework, [Chimp](https://github.com/underscore95/chimp).
 
-[Watch Gameplay Video](https://youtu.be/NDiz5kLaRjI)
+[Watch Gameplay Video](https://youtu.be/NDiz5kLaRjI)<br>
 [Github](https://github.com/underscore95/Blaboon)
 
 **Languages & Libraries:** C++, Chimp
