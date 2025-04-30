@@ -70,4 +70,22 @@ A **3D farming sim first-person shooter**.
 <img src="https://img.itch.zone/aW1nLzIwNDA5MDIzLmdpZg==/original/xW2aP3.gif" alt="Marmota Meadow Icon" width="150"/>
 </td>
 </tr>
+
+<tr>
+<td style="width:100%">
+
+### [Element Oddysey](https://github.com/underscore95/ElementOddysey/tree/main)
+
+A **2.5D co-op survivors-like** developed for the **PS5**.
+
+[Watch Gameplay Video](https://youtu.be/k8oT39oFdPc)
+
+**Languages & Libraries:** C++, Skateboard (Private PS5 Framework)
+
+</td>
+<td style="width:150px; text-align:right;">
+<img src="https://raw.githubusercontent.com/underscore95/underscore95/refs/heads/main/element_oddysey.png" alt="Element Oddysey Icon" width="150"/>
+</td>
+</tr>
+
 </table>
