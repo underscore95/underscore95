@@ -30,8 +30,8 @@ A 3D game framework with networking, lighting/shadow mapping support, music & po
 **Languages & Libraries:** C++, OpenGL, ENet, OpenAL
 
 </td>
-<td style="width:150px; text-align:right;">
-<img src="http://res.publicdomainfiles.com/pdf_view/68/13927374611731.png" alt="Chimp Icon" width="150"/>
+<td style="width:250px; text-align:right;">
+<img src="http://res.publicdomainfiles.com/pdf_view/68/13927374611731.png" alt="Chimp Icon" width="250"/>
 </td>
 </tr>
 
@@ -49,7 +49,7 @@ Example project for my game framework, [Chimp](https://github.com/underscore95/c
 **Languages & Libraries:** C++, Chimp
 
 </td>
-<td style="width:150px; text-align:right;">
+<td style="width:250px; text-align:right;">
 <img style="display:block;" width="100%" height="100%" src="https://github.com/underscore95/underscore95/blob/main/blaboon.png" alt="Blaboon Icon"/>
 </td>
 </tr>
@@ -66,8 +66,8 @@ A **3D farming sim first-person shooter**.
 **Languages & Libraries:** C#, Unity
 
 </td>
-<td style="width:150px; text-align:right;">
-<img src="https://raw.githubusercontent.com/underscore95/underscore95/refs/heads/main/icon_marmota_meadow.png" alt="Marmota Meadow Icon" width="150"/>
+<td style="width:250px; text-align:right;">
+<img src="https://raw.githubusercontent.com/underscore95/underscore95/refs/heads/main/icon_marmota_meadow.png" alt="Marmota Meadow Icon" width="250"/>
 </td>
 </tr>
 
@@ -83,8 +83,8 @@ A **2.5D co-op survivors-like** developed for the **PS5**.
 **Languages & Libraries:** C++, Skateboard (Private PS5 Framework)
 
 </td>
-<td style="width:150px; text-align:right;">
-<img src="https://raw.githubusercontent.com/underscore95/underscore95/refs/heads/main/element_oddysey.png" alt="Element Oddysey Icon" width="150"/>
+<td style="width:250px; text-align:right;">
+<img src="https://raw.githubusercontent.com/underscore95/underscore95/refs/heads/main/element_oddysey.png" alt="Element Oddysey Icon" width="250"/>
 </td>
 </tr>
 
