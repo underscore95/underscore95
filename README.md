@@ -7,7 +7,9 @@
 ## 🛠️ Skills
 
 **Game Engines:** Unity, Godot  
-**Languages & APIs:** C++, Java, OpenGL, DirectX 11  
+**Languages:** C++, Java
+**Graphics:** OpenGL, DirectX 11
+**Audio:** OpenAL
 **Databases:** MySQL, MongoDB  
 **Networking:** ENet, WebSockets, Redis
 
@@ -21,7 +23,7 @@
   
 ### [Chimp](https://github.com/underscore95/chimp)
 
-A 3D game framework with networking and lighting/shadow mapping support.
+A 3D game framework with networking, lighting/shadow mapping support, music & positional sound effects, and ref-counted resource management.
 
 [Github](https://github.com/underscore95/chimp)
 
