@@ -59,7 +59,7 @@ Example project for my game framework, [Chimp](https://github.com/underscore95/c
 
 ### [Marmota Meadow](https://overheat-studios.itch.io/marmota-meadow)
 
-A **farming sim first-person shooter**.
+A **3D farming sim first-person shooter**.
 
 [Watch Trailer](https://www.youtube.com/watch?v=yHH3yI8zBmo)
 
