@@ -7,11 +7,11 @@
 ## 🛠️ Skills
 
 **Game Engines:** Unity, Godot  
-**Languages:** C++, Java
-**Graphics:** OpenGL, DirectX 11
-**Audio:** OpenAL
+**Languages:** C++, Java  
+**Graphics:** OpenGL, DirectX 11  
+**Audio:** OpenAL  
 **Databases:** MySQL, MongoDB  
-**Networking:** ENet, WebSockets, Redis
+**Networking:** ENet, WebSockets, Redis  
 
 ---
 
