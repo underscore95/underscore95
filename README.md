@@ -67,7 +67,7 @@ A **3D farming sim first-person shooter**.
 
 </td>
 <td style="width:150px; text-align:right;">
-<img src="https://img.itch.zone/aW1nLzIwNDA5MDIzLmdpZg==/original/xW2aP3.gif" alt="Marmota Meadow Icon" width="150"/>
+<img src="https://raw.githubusercontent.com/underscore95/underscore95/refs/heads/main/icon_marmota_meadow.png" alt="Marmota Meadow Icon" width="150"/>
 </td>
 </tr>
 
