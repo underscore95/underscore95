@@ -23,7 +23,7 @@
   
 ### [Chimp](https://github.com/underscore95/chimp)
 
-A 3D game framework with networking, lighting/shadow mapping support, music & positional sound effects, and ref-counted resource management.
+A 3D game framework with networking, lighting & shadow support, music & positional sound effects, and ref-counted resource management.
 
 [Github](https://github.com/underscore95/chimp)
 
@@ -31,7 +31,7 @@ A 3D game framework with networking, lighting/shadow mapping support, music & po
 
 </td>
 <td style="width:250px; text-align:right;">
-<img src="http://res.publicdomainfiles.com/pdf_view/68/13927374611731.png" alt="Chimp Icon" width="250"/>
+<img src="https://raw.githubusercontent.com/underscore95/underscore95/refs/heads/main/chimp.png" alt="Chimp Icon" width="250"/>
 </td>
 </tr>
 
