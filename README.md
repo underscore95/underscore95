@@ -25,7 +25,7 @@
 
 A 3D game framework with networking, lighting & shadow support, music & positional sound effects, and ref-counted resource management.
 
-[Github](https://github.com/underscore95/chimp)
+[GitHub](https://github.com/underscore95/chimp)
 
 **Languages & Libraries:** C++, OpenGL, ENet, OpenAL
 
@@ -44,7 +44,7 @@ A **2.5D multiplayer tower defense game** inspired by Bloons TD Battles.
 Example project for my game framework, [Chimp](https://github.com/underscore95/chimp).
 
 [Watch Gameplay Video](https://youtu.be/NDiz5kLaRjI)<br>
-[Github](https://github.com/underscore95/Blaboon)
+[GitHub](https://github.com/underscore95/Blaboon)
 
 **Languages & Libraries:** C++, Chimp
 
@@ -62,6 +62,8 @@ Example project for my game framework, [Chimp](https://github.com/underscore95/c
 A **3D farming sim first-person shooter**.
 
 [Watch Trailer](https://www.youtube.com/watch?v=yHH3yI8zBmo)
+[Itch Page](https://overheat-studios.itch.io/marmota-meadow)
+[GitHub](https://github.com/OverheatStudios/MarmotaMeadow/)
 
 **Languages & Libraries:** C#, Unity
 
