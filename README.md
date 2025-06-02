@@ -61,8 +61,8 @@ Example project for my game framework, [Chimp](https://github.com/underscore95/c
 
 A **3D farming sim first-person shooter**.
 
-[Watch Trailer](https://www.youtube.com/watch?v=yHH3yI8zBmo)
-[Itch Page](https://overheat-studios.itch.io/marmota-meadow)
+[Watch Trailer](https://www.youtube.com/watch?v=yHH3yI8zBmo)<br>
+[Itch Page](https://overheat-studios.itch.io/marmota-meadow)<br>
 [GitHub](https://github.com/OverheatStudios/MarmotaMeadow/)
 
 **Languages & Libraries:** C#, Unity
