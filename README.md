@@ -42,7 +42,7 @@ Worked with proprietary libraries, modernized legacy systems, and implemented ne
 <td style="width:100%">
 
 ### [Hysummit](https://discord.gg/VdYhwSUmKv)  
-**Minecraft Developer**  
+**Software Developer**  
 **August 2023 – March 2024**
 
 Developed server-side Minecraft modifications using Java. Led and participated in code reviews.
@@ -125,8 +125,11 @@ A **3D farming sim first-person shooter**.
 
 A **turn-based survivors-like** built in Unity featuring boid-based enemies, spells, status effects, stat modifiers, level-up rewards, procedural world generation, a shop, and a save system.  
 
-[Watch Showcase Video](https://www.youtube.com/watch?v=VlscLTiBJ_4)<br>
+[Watch Showcase Video](https://www.youtube.com/watch?v=VlscLTiBJ_4)
+
 [GitHub](https://github.com/underscore95/Charred-Mana/tree/main)
+
+[Itch Page](https://underscore95.itch.io/charred-mana)
 
 **Languages & Libraries:** C#, Unity
 
