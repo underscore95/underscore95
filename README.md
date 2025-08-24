@@ -148,7 +148,7 @@ A **2.5D co-op survivors-like** developed for the **PS5**.
 
 [Watch Gameplay Video](https://youtu.be/k8oT39oFdPc)
 
-**Languages & Libraries:** C++, Skateboard (Private PS5 Framework)
+**Languages & Libraries:** C++, Skateboard (Proprietary PS5 Framework)
 
 </td>
 <td style="width:250px; text-align:right;">
