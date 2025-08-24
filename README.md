@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Jack!
 
-**jg.briggs2004@gmail.com** | Discord: `underscore95`
+**jg.briggs2004@gmail.com** | Discord: `underscore95` | Itch: https://underscore95.itch.io/
 
 ---
 
