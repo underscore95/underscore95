@@ -68,7 +68,7 @@ Implemented a lobby and party system to group players and launch dungeon instanc
   
 ### [Chimp](https://github.com/underscore95/chimp)
 
-A 3D game framework with networking, lighting & shadow support, music & positional sound effects, and ref-counted resource management.
+A 3D game engine with networking, lighting & shadow support, music & positional sound effects, editor, ECS supporting serialisation, and ref-counted resource management.
 
 [GitHub](https://github.com/underscore95/chimp)
 
@@ -86,7 +86,7 @@ A 3D game framework with networking, lighting & shadow support, music & position
 ### [Blaboon](https://github.com/underscore95/Blaboon)
 
 A **2.5D multiplayer tower defense game** inspired by Bloons TD Battles.  
-Example project for my game framework, [Chimp](https://github.com/underscore95/chimp).
+Developed in my own game engine, [Chimp](https://github.com/underscore95/chimp).
 
 [Watch Gameplay Video](https://youtu.be/NDiz5kLaRjI)<br>
 [GitHub](https://github.com/underscore95/Blaboon)
