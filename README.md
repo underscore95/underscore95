@@ -15,6 +15,50 @@
 
 ---
 
+## 💼 Experience
+
+<table>
+<tr>
+<td style="width:100%">
+
+### [HylexMC](https://discord.com/invite/jj8fJQgUHx)  
+**Software Developer**  
+**July 2025 – Present**
+
+Paid role creating Minecraft server modifications in Java for **HylexMC** (32k+ Discord members, 1k+ concurrent players).  
+Worked with proprietary libraries, modernized legacy systems, and implemented new gameplay features.  
+
+[Showcase Video](https://www.youtube.com/watch?v=vjTXgKLNWoU)
+[Discord](https://discord.com/invite/jj8fJQgUHx)
+
+</td>
+<td style="width:250px; text-align:right;">
+<img src="https://dunb17ur4ymx4.cloudfront.net/webstore/logos/659e7460f1506590355eea30f261b1b3a24d097c.png" alt="HylexMC Logo" width="200"/>
+</td>
+</tr>
+  
+<tr>
+<td style="width:100%">
+
+### [Hysummit](https://discord.gg/VdYhwSUmKv)  
+**Minecraft Developer**  
+**August 2023 – March 2024**
+
+Developed server-side Minecraft modifications using Java. Led and participated in code reviews.
+Built a cross-server dungeon instancing system using Redis pub/sub and SQLite.  
+Designed a Java based scripting system for defining dungeon objectives and entity spawners.  
+Implemented a lobby and party system to group players and launch dungeon instances.
+
+</td>
+<td style="width:250px; text-align:right;">
+<img src="https://yt3.googleusercontent.com/aokIviQjjKlyWRjR--BLMCZbsmkDdD4MQ7L68ZKBxTfCsJHTp3bv7C6q4QLwRthNF5oKrFxF=s160-c-k-c0x00ffffff-no-rj" alt="Hysummit Icon" width="200"/>
+</td>
+</tr>
+
+</table>
+
+---
+
 ## 🧪 Projects
 
 <table>
@@ -70,6 +114,24 @@ A **3D farming sim first-person shooter**.
 </td>
 <td style="width:250px; text-align:right;">
 <img src="https://raw.githubusercontent.com/underscore95/underscore95/refs/heads/main/icon_marmota_meadow.png" alt="Marmota Meadow Icon" width="250"/>
+</td>
+</tr>
+
+<tr>
+<td style="width:100%">
+
+### [Charred Mana](https://underscore95.itch.io/charred-mana)
+
+A **turn-based survivors-like** built in Unity featuring boid-based enemies, spells, status effects, stat modifiers, level-up rewards, procedural world generation, a shop, and a save system.  
+
+[Watch Showcase Video](https://www.youtube.com/watch?v=VlscLTiBJ_4)<br>
+[GitHub](https://github.com/underscore95/Charred-Mana/tree/main)
+
+**Languages & Libraries:** C#, Unity
+
+</td>
+<td style="width:250px; text-align:right;">
+<img src="https://img.itch.zone/aW1nLzExNzMzOTIzLnBuZw==/315x250%23c/xudCPp.png" alt="Charred Mana Icon" width="250"/>
 </td>
 </tr>
 
