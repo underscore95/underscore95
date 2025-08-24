@@ -29,6 +29,7 @@ Paid role creating Minecraft server modifications in Java for **HylexMC** (32k+ 
 Worked with proprietary libraries, modernized legacy systems, and implemented new gameplay features.  
 
 [Showcase Video](https://www.youtube.com/watch?v=vjTXgKLNWoU)
+
 [Discord](https://discord.com/invite/jj8fJQgUHx)
 
 </td>
@@ -131,7 +132,7 @@ A **turn-based survivors-like** built in Unity featuring boid-based enemies, spe
 
 </td>
 <td style="width:250px; text-align:right;">
-<img src="https://img.itch.zone/aW1nLzExNzMzOTIzLnBuZw==/315x250%23c/xudCPp.png" alt="Charred Mana Icon" width="250"/>
+<img src="https://img.itch.zone/aW1hZ2UvMzczOTk2OS8yMjMyMDM1Ny5wbmc=/original/pk9xe6.png" width="250"/>
 </td>
 </tr>
 
